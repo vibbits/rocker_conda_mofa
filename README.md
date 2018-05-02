@@ -3,7 +3,7 @@
 # rocker_conda_mofa
 Docker container on rocker/tidyverse with miniconda3 to run MOFA tool https://github.com/bioFAM/MOFA
 
-Visit [rocker-project.org] for more about available Rocker images, configuration, and use.
+Visit [rocker-project.org](http://rocker-project.org) for more about available Rocker images, configuration, and use.
 
 A very short how-to here to lauch the container:
 
